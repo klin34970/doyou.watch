@@ -1,0 +1,61 @@
+/* Create your style on here */
+iframe.video-player
+{
+	height:500px;
+}
+
+@media (max-width: 480px)
+{
+
+	iframe.video-player
+	{
+		height:200px;
+	}
+	
+}
+
+@media (max-width: 768px)
+{
+
+	iframe.video-player
+	{
+		height:300px;
+	}
+	
+}
+
+@media (max-width: 1024px)
+{
+
+	iframe.video-player
+	{
+		height:400px;
+	}
+	
+}
+
+.sign-header .form-group
+{
+	margin:0px
+}
+
+form.sign-up .has-error label.error
+{
+    left: -233px;
+	width: 213px;	
+}
+
+form.sign-up .has-error label.error:after
+{
+    content: "____";
+    position: absolute;
+    right: -20px;
+    color: #E9573F;
+    top: 0px;	
+	display:none;
+}
+form.sign-up .has-error label.error:before
+{
+	display:none;
+}
+

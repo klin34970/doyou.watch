@@ -1,0 +1,1 @@
+a:4:{s:5:"value";i:160680;s:10:"write_time";i:1465704438;s:10:"expired_in";i:1;s:12:"expired_time";i:1465704439;}
